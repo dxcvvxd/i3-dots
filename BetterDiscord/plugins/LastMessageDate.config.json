@@ -1,0 +1,13 @@
+{
+	"all": {
+		"dates": {
+			"lastMessageDate": {
+				"formatString": "$date, $time ($agoDays)"
+			}
+		},
+		"places": {
+			"userPopout": true,
+			"userProfile": true
+		}
+	}
+}

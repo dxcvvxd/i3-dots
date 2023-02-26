@@ -1,0 +1,18 @@
+{
+    "version": "1.8.4",
+    "addonlistControls": {
+        "theme": {
+            "view": "grid"
+        },
+        "plugin": {
+            "view": "grid",
+            "sort": "name",
+            "ascending": true
+        }
+    },
+    "drawerStates": {
+        "settings": {
+            "window": false
+        }
+    }
+}

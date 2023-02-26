@@ -1,0 +1,268 @@
+{
+	"all": {
+		"choices": {
+			"call_calling": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": null,
+				"sound": "Call Calling",
+				"volume": 100
+			},
+			"call_ringing": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": null,
+				"sound": "Call Ringing",
+				"volume": 100
+			},
+			"deafen": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "Deafen",
+				"volume": 100
+			},
+			"disconnect": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "Disconnect",
+				"volume": 100
+			},
+			"highfive_clap": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Highfive Clap",
+				"volume": 100
+			},
+			"highfive_whistle": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Highfive Whistle",
+				"volume": 100
+			},
+			"ddr-down": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "HotKeys Down",
+				"volume": 100
+			},
+			"ddr-left": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "HotKeys Left",
+				"volume": 100
+			},
+			"ddr-right": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "HotKeys Right",
+				"volume": 100
+			},
+			"ddr-up": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "HotKeys Up",
+				"volume": 100
+			},
+			"reconnect": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Invited To Speak",
+				"volume": 100
+			},
+			"message1": {
+				"category": "Yachty",
+				"focus": true,
+				"mute": false,
+				"sound": "Message",
+				"volume": 100
+			},
+			"dm": {
+				"category": "---",
+				"focus": true,
+				"mute": false,
+				"sound": "---",
+				"volume": 100
+			},
+			"groupdm": {
+				"category": "---",
+				"focus": true,
+				"mute": false,
+				"sound": "---",
+				"volume": 100
+			},
+			"mentioned": {
+				"category": "---",
+				"focus": true,
+				"mute": false,
+				"sound": "---",
+				"volume": 100
+			},
+			"everyone": {
+				"category": "---",
+				"focus": true,
+				"mute": false,
+				"sound": "---",
+				"volume": 100
+			},
+			"here": {
+				"category": "---",
+				"focus": true,
+				"mute": false,
+				"sound": "---",
+				"volume": 100
+			},
+			"reply": {
+				"category": "---",
+				"focus": true,
+				"mute": true,
+				"sound": "---",
+				"volume": 100
+			},
+			"role": {
+				"category": "---",
+				"focus": true,
+				"mute": false,
+				"sound": "---",
+				"volume": 100
+			},
+			"mute": {
+				"category": "---",
+				"focus": false,
+				"mute": false,
+				"sound": "---",
+				"volume": 100
+			},
+			"poggermode_achievement_unlock": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Poggermode Achievement Unlock",
+				"volume": 100
+			},
+			"poggermode_applause": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Poggermode Applause",
+				"volume": 100
+			},
+			"poggermode_enabled": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Poggermode Enabled",
+				"volume": 100
+			},
+			"poggermode_message_send": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Poggermode Message Send",
+				"volume": 100
+			},
+			"ptt_start": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Push2Talk Start",
+				"volume": 100
+			},
+			"ptt_stop": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Push2Talk Stop",
+				"volume": 100
+			},
+			"stage_waiting": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Stage Waiting",
+				"volume": 100
+			},
+			"stream_ended": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "Stream Ended",
+				"volume": 100
+			},
+			"stream_started": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "Stream Started",
+				"volume": 100
+			},
+			"stream_user_joined": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "Stream User Joined",
+				"volume": 100
+			},
+			"stream_user_left": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "Stream User Left",
+				"volume": 100
+			},
+			"success": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "Success",
+				"volume": 100
+			},
+			"undeafen": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "Undeafen",
+				"volume": 100
+			},
+			"unmute": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "Unmute",
+				"volume": 100
+			},
+			"user_join": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "User Join",
+				"volume": 100
+			},
+			"user_leave": {
+				"category": "Yachty",
+				"focus": false,
+				"mute": false,
+				"sound": "User Leave",
+				"volume": 100
+			},
+			"user_moved": {
+				"category": "Discord",
+				"focus": false,
+				"mute": false,
+				"sound": "User Moved",
+				"volume": 100
+			}
+		},
+		"volumes": {
+			"globalVolume": 100
+		}
+	}
+}

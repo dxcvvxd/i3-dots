@@ -1,0 +1,7 @@
+//@theme "/home/dxc/.config/rofi/themes/windows11-list-dark.rasi"
+@import "~/.cache/wal/colors-rofi-dark"
+element-text {
+  text-color: inherit;
+}
+//@theme "/usr/share/rofi/themes/Adapta-Nokto.rasi"
+@theme "/home/dxc/.config/rofi/themes/windows11-list-dark.rasi"
